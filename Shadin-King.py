@@ -208,7 +208,7 @@ logo ="""
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
 ╠══[Author                   • \33[1;38mMR-SHADIN ]\33[1;38m     ║\033[1;31m 
 ╠══[Facebook                 • Shadin-King ]   ║  \033[1;97m  
-╠══[Github                   • \33[1;38m ]  Shadin-Obroy ║\33[1;34m   
+╠══[Github                   • \33[1;38m ] Shadin-Obroy ║\33[1;34m   
 ╠══[Whatsapp                 • 01812775755 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
 ╠══[VERSION                  • 1.0 ]          ║\033[1;35m 
